@@ -10,8 +10,8 @@ body {
     width: 60vw;
     display:flex;
     flex-wrap: wrap;
-    padding: 4px;
-    z-index: -1;
+    justify-content: right;
+    
     
 }
 
